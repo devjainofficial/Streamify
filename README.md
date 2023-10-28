@@ -1,4 +1,4 @@
-# Fullstack Streamyard Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
+# Streamify: A Streamyard Clone Using Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL
 
 
 Features:
